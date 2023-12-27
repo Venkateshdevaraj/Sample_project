@@ -1,6 +1,6 @@
 package com.app.locators;
 
-import java.awt.Robot;
+
 import java.awt.event.KeyEvent;
 
 import org.openqa.selenium.By;
